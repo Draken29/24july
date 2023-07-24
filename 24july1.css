@@ -1,0 +1,12 @@
+.lo{
+    opacity: 0.5;
+}
+.lo:hover{
+    opacity: 1;
+}
+.e{
+    font-size: 200px;
+}
+.e:hover{
+    font-size: medium;
+}
